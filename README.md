@@ -16,7 +16,6 @@ luego correr el siguiente comando en la terminal para confirmar que quedó insta
 ```
 $ dotnet --version
 7.0.400
-
 ```
 
 # Como correr cada programa?
@@ -37,7 +36,7 @@ ejercicios
 .
 .
 ```
-- Para correr un ejercicio en especifico se debe navegar hasta el folder exercise_(numero-de-ejercicio)
+- Para correr un ejercicio en especifico se debe navegar hasta el root folder de cada ejercicio 'exercise_(numero-de-ejercicio)'
 - Luego correr el siguiente comando, ejemplo:
 ```
 # ./ejercicios/exercise_1

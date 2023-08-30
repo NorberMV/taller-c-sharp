@@ -7,23 +7,40 @@ Primer taller de ejercicios en C#.
 - [Como correr cada programa?](#como-correr-cada-programa)
 
 # taller-c-sharp
-Custom agent based on a chat model bot.
+Primer taller de lógica de programación en C#.
 
 # Como instalar el dev environment `(macOS)`?
 
-After activate your virtual environment, you can run the command below to install all the required dependencies:
+Ir a y descargar el installer standalone para macOS .NET 7.NET SDK Arm64 (Apple Silicon), 
+luego correr el siguiente comando en la terminal para confirmar que quedó instalado:
+```
+$ dotnet --version
+7.0.400
 
 ```
-pip install langchain
-pip install openai
-pip install flask
-pip install flask_socketio
-pip install flask_cors
-```
-Now you should be good to go!
 
 # Como correr cada programa?
 
-- Type `python prices_tool/prices_tool.py` to run the app or `python prices_tool/server.py`.
-- Now you can start asking the ai.
+- Este repositorio tiene la siguiente estructura de folders:
+ejercicios
+├── exercise_1
+│   ├── Program.cs
+│   ├── bin
+│   ├── exercise_1.csproj
+│   └── obj
+├── exercise_2
+│   ├── Program.cs
+│   ├── bin
+│   ├── exercise_2.csproj
+│   └── obj
+.
+.
+- Para correr un ejercicio en especifico se debe navegar hasta el folder exercise_<numero-de-ejercicio>
+- Luego correr el siguiente comando:
+```
+./ejercicios/exercise_1
+
+$ dotnet run
+```
+
 

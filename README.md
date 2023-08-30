@@ -3,8 +3,8 @@ Primer taller de ejercicios en C#.
 
 
 - [taller-c-sharp](#taller-c-sharp)
-- [Como instalar el dev environment `(macOS)`?](#como-instalar-el-dev-environment)
-- [Como correr cada programa?](#como-correr-cada-programa?)
+- [Como instalar el dev environment `(macOS)`?](#como-instalar-el-dev-environment-(macOS))
+- [Como correr cada programa?](#como-correr-cada-programa)
 
 # taller-c-sharp
 Custom agent based on a chat model bot.

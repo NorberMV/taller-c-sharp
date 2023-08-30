@@ -11,7 +11,7 @@ Primer taller de lógica de programación en C#.
 
 # Como instalar el dev environment `(macOS)`?
 
-Ir a y descargar el installer standalone para macOS .NET 7.NET SDK Arm64 (Apple Silicon), 
+Navegar a https://dotnet.microsoft.com/en-us/download y descargar el installer standalone para macOS .NET 7.NET SDK Arm64 (Apple Silicon), 
 luego correr el siguiente comando en la terminal para confirmar que quedó instalado:
 ```
 $ dotnet --version
@@ -22,6 +22,8 @@ $ dotnet --version
 # Como correr cada programa?
 
 - Este repositorio tiene la siguiente estructura de folders:
+- <img src="schema.pnghttps://github.com/NorberMV/taller-c-sharp/blob/master/schema.png" alt="schema" width="50"/>
+```
 ejercicios
 ├── exercise_1
 │   ├── Program.cs
@@ -35,6 +37,7 @@ ejercicios
 │   └── obj
 .
 .
+```
 - Para correr un ejercicio en especifico se debe navegar hasta el folder exercise_<numero-de-ejercicio>
 - Luego correr el siguiente comando:
 ```

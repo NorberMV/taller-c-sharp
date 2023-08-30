@@ -1,2 +1,2 @@
 # taller-c-sharp
-Primer taller de ejercicios en C#
+Primer taller de ejercicios en C#.

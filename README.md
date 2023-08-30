@@ -22,7 +22,6 @@ $ dotnet --version
 # Como correr cada programa?
 
 - Este repositorio tiene la siguiente estructura de folders:
-- <img src="schema.pnghttps://github.com/NorberMV/taller-c-sharp/blob/master/schema.png" alt="schema" width="50"/>
 ```
 ejercicios
 ├── exercise_1
@@ -38,10 +37,10 @@ ejercicios
 .
 .
 ```
-- Para correr un ejercicio en especifico se debe navegar hasta el folder exercise_<numero-de-ejercicio>
-- Luego correr el siguiente comando:
+- Para correr un ejercicio en especifico se debe navegar hasta el folder exercise_(numero-de-ejercicio)
+- Luego correr el siguiente comando, ejemplo:
 ```
-./ejercicios/exercise_1
+# ./ejercicios/exercise_1
 
 $ dotnet run
 ```
